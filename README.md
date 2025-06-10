@@ -27,7 +27,7 @@ Sou apaixonado por tecnologia, comecei no mundo da tecnologia por meio do python
 
 ## 📂 Projetos em destaque
 
-🔹 [**Locadora - Sistema interno de uma Locadora de Veículos**](https://github.com/luizantonio0/NomeDoProjeto1)  
+🔹 [**Locadora - Sistema interno de uma Locadora de Veículos**](https://github.com/luizantonio0/Locadora-JavaFX_GUI)  
 Sistema desenvolvido em java com interface grafica utilizando JavaFX, controla toda a parte interna de administração 
 de uma sistema para uma locadora de veículo, além de gerar relatório de vendas.
 
