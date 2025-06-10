@@ -32,10 +32,10 @@ Sistema desenvolvido em java com interface grafica utilizando JavaFX, controla t
 de uma sistema para uma locadora de veículo, além de gerar relatório de vendas.
 
 ## 📈 Estatísticas GitHub
-<p align = "center">
+<div align = "center">
 ![Luiz Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizantonio0&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizantonio0&layout=compact&theme=dracula)
-</p>
+</div>
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luiz-ant%C3%B4nio-gon%C3%A7alves-a77880313/)
