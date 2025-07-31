@@ -1,58 +1,64 @@
-# 👋 Olá! Eu sou o Luiz Antônio
+# 👋 Hi! I'm Luiz Antônio Gonçalves
 
-Bem-vindo ao meu perfil no GitHub!
+Welcome to my GitHub profile!
 
-Sou apaixonado por tecnologia, comecei no mundo da tecnologia por meio do python e acabei me apaixonando pela área, atualmente busco me especializar em java com spring boot
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de ADS na UFPR.
-- 💻 Explorando áreas como desenvolvimento web, data science e projetos open source.
-- 📚 Sempre buscando aprender novas tecnologias e boas práticas.
-
-## 🛠️ Tecnologias e Ferramentas
-   
- <p align="left">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-
-</p>
-
-## 📂 Projetos em destaque
-
-🔹 [**Rotaract - Site institucional**](https://github.com/luizantonio0/Site-Rotaract-Parque-Barigui)  
-Desenvolvimento completo do site institucional para o clube Rotaract Parque Barigui, com o objetivo de apresentar as ações sociais, 
-membros e eventos do clube à comunidade e novos integrantes. O projeto foi desenvolvido com Angular no front-end e Java (Spring Boot) no back-end, 
-integrando uma arquitetura moderna e responsiva 
-
-🔹 [**Locadora - Sistema interno de uma Locadora de Veículos**](https://github.com/luizantonio0/Locadora-JavaFX_GUI)  
-Sistema desenvolvido em java com interface grafica utilizando JavaFX, controla toda a parte interna de administração 
-de uma sistema para uma locadora de veículo, além de gerar relatório de vendas.
-
-## 📈 Estatísticas GitHub
-
-![Luiz Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizantonio0&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizantonio0&layout=compact&theme=dracula)
-
-## 📫 Como me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-ant%C3%B4nio-gon%C3%A7alves-a77880313/)
-- ✉️ [e-mail](antonio.luiz@ufpr.br) 
+I'm passionate about technology — I started learning through Python and quickly fell in love with the field. Currently, I'm focused on specializing in **Java** with **Spring Boot**, while exploring other areas like web development and open source collaboration.
 
 ---
 
-> _“A melhor maneira de prever o futuro é criá-lo.” – Alan Kay_
+## 🚀 About Me
+
+- 🎓 Studying Systems Analysis and Development at UFPR (Federal University of Paraná).
+- 💻 Interested in web development, backend architecture, and data science.
+- 📚 Continuously learning new technologies and best practices.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 [**Rotaract – Institutional Website**](https://github.com/luizantonio0/Site-Rotaract-Parque-Barigui)  
+A fully responsive and modern website built for the **Rotaract Parque Barigui** club to showcase social initiatives, members, and events. Developed with **Angular** (front-end) and **Spring Boot** (back-end), following component-based architecture and RESTful APIs.
+
+🔹 [**Vehicle Rental System**](https://github.com/luizantonio0/Locadora-JavaFX_GUI)  
+A desktop application developed in Java using JavaFX for the internal administration of a vehicle rental business. Features include vehicle management, client tracking, and automated sales report generation.
+
+---
+
+## 📈 GitHub Stats
+
+![Luiz Antônio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizantonio0&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizantonio0&layout=compact&theme=dracula)
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-ant%C3%B4nio-gon%C3%A7alves-a77880313/)
+- ✉️ [antonio.luiz@ufpr.br](mailto:antonio.luiz@ufpr.br)
+
+---
+
+> _"The best way to predict the future is to create it." – Alan Kay_
 
 
 
