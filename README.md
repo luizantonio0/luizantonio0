@@ -46,9 +46,9 @@ A desktop application developed in Java using JavaFX for the internal administra
 
 ## 📈 GitHub Stats
 
-<center>
+<center>  
 ![Luiz Antônio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizantonio0&show_icons=true&theme=material-palenight)  
-</center>
+</center>  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizantonio0&layout=donut&theme=material-palenight)
 
 ---
